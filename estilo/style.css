@@ -67,6 +67,7 @@ section.imagem {
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.466);
     color: white;
     background-size: cover;
+    background-repeat: no-repeat;
 }
 section.imagem > p {
     display: inline-block;
